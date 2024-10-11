@@ -2,9 +2,9 @@
 
 This project is an **Augmented Reality (AR)** application designed to help children with **Attention Deficit Hyperactivity Disorder (ADHD)** identify their emotions using a **Feelings Thermometer**. The app provides calming activities to help stabilize mood and encourages self-awareness.
 
-Main documents. Click the hyperlink and View raw to download the files
-[Game Desing Document](https://github.com/AICarope/XR-Extended-Reality-AR-Augmented-Reality-Project/blob/main/Game%20Jam%20FInal%20Carmen%20Pena.docx)
-[Demo - Prototype](https://github.com/AICarope/XR-Extended-Reality-AR-Augmented-Reality-Project/blob/main/2023%20Final%20Webcam%20(1).webm)
+Main documents. Click the hyperlink and **View raw** to download the files
+[Game Desing Document](https://github.com/AICarope/XR-Extended-Reality-AR-Augmented-Reality-Project/blob/main/Game%20Jam%20FInal%20Carmen%20Pena.docx);
+[Demo - Prototype](https://github.com/AICarope/XR-Extended-Reality-AR-Augmented-Reality-Project/blob/main/2023%20Final%20Webcam%20(1).webm);
 [Deck](https://github.com/AICarope/XR-Extended-Reality-AR-Augmented-Reality-Project/blob/main/2023%20Final.pptx)
 
 ## Overview
