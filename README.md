@@ -12,8 +12,6 @@ ADHD is a medical condition that affects attention, self-control, and the abilit
 
 <img src="https://github.com/user-attachments/assets/e4a1e8e2-7086-428e-8775-2b76c9ede134" alt="Image 1" width="300" />
 <img src="https://github.com/user-attachments/assets/f71c8254-a1d4-4258-af73-7897fce85488" alt="Image 2" width="300" />
-<img src="https://github.com/user-attachments/assets/00fad36f-c8db-4c1b-a959-fc1a0030ce0c" alt="Image 3" width="300" />
-<img src="https://github.com/user-attachments/assets/6561f421-3495-46ed-8034-991c0bc03beb" alt="Image 4" width="300" />
 
 ### Target Audience
 - **Age Range:** Children from 6 to 12 years old.
