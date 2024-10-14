@@ -5,9 +5,9 @@ This project is an **Augmented Reality (AR)** application designed to help child
 ## Main Documents
 Click the hyperlink and **View raw** to download the files:
 
-- [Game Design Document](https://github.com/AICarope/XR-Extended-Reality-AR-Augmented-Reality-Project/blob/main/Game%20Jam%20FInal%20Carmen%20Pena.docx)
+- [Game Design Document](https://github.com/AICarope/XR-Extended-Reality-AR-Augmented-Reality-Project/blob/main/Game%20Jam%20Final%20Carmen%20Pena.pdf)
 - [Demo - Prototype](https://github.com/AICarope/XR-Extended-Reality-AR-Augmented-Reality-Project/blob/main/2023%20Final%20Webcam%20(1).webm)
-- [Deck](https://github.com/AICarope/XR-Extended-Reality-AR-Augmented-Reality-Project/blob/main/2023%20Final.pptx)
+- [Deck](https://github.com/AICarope/XR-Extended-Reality-AR-Augmented-Reality-Project/blob/main/AR%20Deck%20Final.pdf)
 
 ## Overview
 ADHD is a medical condition that affects attention, self-control, and the ability to sit still. The **Feelings Thermometer** is a visual tool that helps children recognize their emotions and suggests calming activities like counting to 10, taking deep breaths, or dancing.
