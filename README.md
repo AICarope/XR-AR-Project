@@ -12,6 +12,7 @@ Click the hyperlink and **View raw** to download the files:
 ## Overview
 ADHD is a medical condition that affects attention, self-control, and the ability to sit still. The **Feelings Thermometer** is a visual tool that helps children recognize their emotions and suggests calming activities like counting to 10, taking deep breaths, or dancing.
 
+## Preview Prototype 
 <img src="https://github.com/user-attachments/assets/e4a1e8e2-7086-428e-8775-2b76c9ede134" alt="Image 1" width="300" />
 <img src="https://github.com/user-attachments/assets/f71c8254-a1d4-4258-af73-7897fce85488" alt="Image 2" width="300" />
 
